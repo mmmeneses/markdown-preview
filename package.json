@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mmmeneses.github.io/markdown-preview/",
+  "homepage": "https://mmmeneses.github.io/markdown-preview",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
