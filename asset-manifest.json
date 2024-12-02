@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mmmeneses/markdown-preview.git/static/css/main.9e78d095.css",
+    "main.js": "/mmmeneses/markdown-preview.git/static/js/main.e4d80c9c.js",
+    "index.html": "/mmmeneses/markdown-preview.git/index.html",
+    "main.9e78d095.css.map": "/mmmeneses/markdown-preview.git/static/css/main.9e78d095.css.map",
+    "main.e4d80c9c.js.map": "/mmmeneses/markdown-preview.git/static/js/main.e4d80c9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e78d095.css",
+    "static/js/main.e4d80c9c.js"
+  ]
+}
